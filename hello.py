@@ -1,3 +1,2 @@
 def hello_world():
-	pass
-
+	print("hello world")
